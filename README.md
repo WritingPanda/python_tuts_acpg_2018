@@ -8,6 +8,6 @@ Goals for the 45 minute to hour long talk:
 3. Features in 3 that are great and how they can be used
 4. Some modules and libraries worth exploring when getting into Python 3
 5. Additional resources 
-6. Conclusion
+6. Q&A
 
 🎉 🐼 🎉
